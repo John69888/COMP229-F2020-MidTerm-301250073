@@ -1,3 +1,5 @@
+<!-- File Name: books.js, Student Name: Liu Chengqing, Student ID: 301250073 -->
+
 let mongoose = require('mongoose');
 
 // create a model class
